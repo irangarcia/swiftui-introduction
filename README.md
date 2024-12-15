@@ -1,78 +1,81 @@
-# SwiftUI Introduction
+<p align="center">
+  <img src="https://developer.apple.com/news/images/og/swiftui-og.png" width="200px" />
+</p>
 
-Basic UI Components
+## SwiftUI Introduction
 
-- [Buttons.swift](IntroductionSwiftUI/Buttons.swift)  
-- [ButtonStyles.swift](IntroductionSwiftUI/ButtonStyles.swift)  
-- [Labels.swift](IntroductionSwiftUI/Labels.swift)  
-- [Sliders.swift](IntroductionSwiftUI/Sliders.swift)  
-- [Steppers.swift](IntroductionSwiftUI/Steppers.swift)  
-- [Switches.swift](IntroductionSwiftUI/Switches.swift)  
-- [SubmitButton.swift](IntroductionSwiftUI/SubmitButton.swift)  
+### Basic UI Components
 
-Styling and Appearance
+- [Buttons](IntroductionSwiftUI/Buttons.swift)  
+- [ButtonStyles](IntroductionSwiftUI/ButtonStyles.swift)  
+- [Labels](IntroductionSwiftUI/Labels.swift)  
+- [Sliders](IntroductionSwiftUI/Sliders.swift)  
+- [Steppers](IntroductionSwiftUI/Steppers.swift)  
+- [Switches](IntroductionSwiftUI/Switches.swift)  
+- [SubmitButton](IntroductionSwiftUI/SubmitButton.swift)  
 
-- [Colors.swift](IntroductionSwiftUI/Colors.swift)  
-- [Gradients.swift](IntroductionSwiftUI/Gradients.swift)  
-- [BackgroundMaterials.swift](IntroductionSwiftUI/BackgroundMaterials.swift)  
-- [BackgroundsAndOverlays.swift](IntroductionSwiftUI/BackgroundsAndOverlays.swift)  
-- [DarkMode.swift](IntroductionSwiftUI/DarkMode.swift)  
-- [Shapes.swift](IntroductionSwiftUI/Shapes.swift)  
+### Styling and Appearance
 
-Layouts and Spacing
+- [Colors](IntroductionSwiftUI/Colors.swift)  
+- [Gradients](IntroductionSwiftUI/Gradients.swift)  
+- [BackgroundMaterials](IntroductionSwiftUI/BackgroundMaterials.swift)  
+- [BackgroundsAndOverlays](IntroductionSwiftUI/BackgroundsAndOverlays.swift)  
+- [DarkMode](IntroductionSwiftUI/DarkMode.swift)  
+- [Shapes](IntroductionSwiftUI/Shapes.swift)  
 
-- [Stacks.swift](IntroductionSwiftUI/Stacks.swift)  
-- [Frames.swift](IntroductionSwiftUI/Frames.swift)  
-- [Groups.swift](IntroductionSwiftUI/Groups.swift)  
-- [Spacers.swift](IntroductionSwiftUI/Spacers.swift)  
-- [LazyGrids.swift](IntroductionSwiftUI/LazyGrids.swift)  
-- [Grids.swift](IntroductionSwiftUI/Grids.swift)  
-- [ViewsThatFits.swift](IntroductionSwiftUI/ViewsThatFits.swift) 
+### Layouts and Spacing
 
-Navigation and Modals
+- [Stacks](IntroductionSwiftUI/Stacks.swift)  
+- [Frames](IntroductionSwiftUI/Frames.swift)  
+- [Groups](IntroductionSwiftUI/Groups.swift)  
+- [Spacers](IntroductionSwiftUI/Spacers.swift)  
+- [LazyGrids](IntroductionSwiftUI/LazyGrids.swift)  
+- [Grids](IntroductionSwiftUI/Grids.swift)  
+- [ViewsThatFits](IntroductionSwiftUI/ViewsThatFits.swift) 
 
-- [Navigation.swift](IntroductionSwiftUI/Navigation.swift)  
-- [Tabs.swift](IntroductionSwiftUI/Tabs.swift)  
-- [Sheets.swift](IntroductionSwiftUI/Sheets.swift)  
-- [ResizableSheets.swift](IntroductionSwiftUI/ResizableSheets.swift)  
-- [Popovers.swift](IntroductionSwiftUI/Popovers.swift)  
-- [PageTabs.swift](IntroductionSwiftUI/PageTabs.swift)  
+### Navigation and Modals
 
-Forms and Data Input
+- [Navigation](IntroductionSwiftUI/Navigation.swift)  
+- [Tabs](IntroductionSwiftUI/Tabs.swift)  
+- [Sheets](IntroductionSwiftUI/Sheets.swift)  
+- [ResizableSheets](IntroductionSwiftUI/ResizableSheets.swift)  
+- [Popovers](IntroductionSwiftUI/Popovers.swift)  
+- [PageTabs](IntroductionSwiftUI/PageTabs.swift)  
 
-- [TextFields.swift](IntroductionSwiftUI/TextFields.swift)  
-- [TextEditors.swift](IntroductionSwiftUI/TextEditors.swift)  
-- [DatePickers.swift](IntroductionSwiftUI/DatePickers.swift)  
-- [ColorPickers.swift](IntroductionSwiftUI/ColorPickers.swift)  
-- [Pickers.swift](IntroductionSwiftUI/Pickers.swift)  
+### Forms and Data Input
 
-State and Data Management
+- [TextFields](IntroductionSwiftUI/TextFields.swift)  
+- [TextEditors](IntroductionSwiftUI/TextEditors.swift)  
+- [DatePickers](IntroductionSwiftUI/DatePickers.swift)  
+- [ColorPickers](IntroductionSwiftUI/ColorPickers.swift)  
+- [Pickers](IntroductionSwiftUI/Pickers.swift)  
 
-- [StateWrapper.swift](IntroductionSwiftUI/StateWrapper.swift)  
-- [BindingWrapper.swift](IntroductionSwiftUI/BindingWrapper.swift)  
-- [EnvironmentObjects.swift](IntroductionSwiftUI/EnvironmentObjects.swift)  
-- [Observables.swift](IntroductionSwiftUI/Observables.swift)
-- [Models.swift](IntroductionSwiftUI/Models.swift)  
-- [ViewModels.swift](IntroductionSwiftUI/ViewModels.swift)  
+### State and Data Management
 
+- [StateWrapper](IntroductionSwiftUI/StateWrapper.swift)  
+- [BindingWrapper](IntroductionSwiftUI/BindingWrapper.swift)  
+- [EnvironmentObjects](IntroductionSwiftUI/EnvironmentObjects.swift)  
+- [Observables](IntroductionSwiftUI/Observables.swift)
+- [Models](IntroductionSwiftUI/Models.swift)  
+- [ViewModels](IntroductionSwiftUI/ViewModels.swift)  
 
-Animations and Interactivity
+### Animations and Interactivity
 
-- [Animations.swift](IntroductionSwiftUI/Animations.swift)  
-- [AnimationCurves.swift](IntroductionSwiftUI/AnimationCurves.swift)  
-- [TapGesture.swift](IntroductionSwiftUI/TapGesture.swift)  
-- [Transitions.swift](IntroductionSwiftUI/Transitions.swift)
+- [Animations](IntroductionSwiftUI/Animations.swift)  
+- [AnimationCurves](IntroductionSwiftUI/AnimationCurves.swift)  
+- [TapGesture](IntroductionSwiftUI/TapGesture.swift)  
+- [Transitions](IntroductionSwiftUI/Transitions.swift)
 
-Advanced Features
+### Advanced Features
 
-- [FocusStates.swift](IntroductionSwiftUI/FocusStates.swift)  
-- [ExtractingSubviews.swift](IntroductionSwiftUI/ExtractingSubviews.swift)  
-- [ExtractingFunctions.swift](IntroductionSwiftUI/ExtractingFunctions.swift)  
-- [AnyLayouts.swift](IntroductionSwiftUI/AnyLayouts.swift)  
-- [SafeAreaInsets.swift](IntroductionSwiftUI/SafeAreaInsets.swift)  
-- [UnavailableView.swift](IntroductionSwiftUI/UnavailableView.swift)  
+- [FocusStates](IntroductionSwiftUI/FocusStates.swift)  
+- [ExtractingSubviews](IntroductionSwiftUI/ExtractingSubviews.swift)  
+- [ExtractingFunctions](IntroductionSwiftUI/ExtractingFunctions.swift)  
+- [AnyLayouts](IntroductionSwiftUI/AnyLayouts.swift)  
+- [SafeAreaInsets](IntroductionSwiftUI/SafeAreaInsets.swift)  
+- [UnavailableView](IntroductionSwiftUI/UnavailableView.swift)  
 
-Utils
+### Utils
 
-- [Documentation.swift](IntroductionSwiftUI/Documentation.swift)  
-- [InitializersAndEnums.swift](IntroductionSwiftUI/InitializersAndEnums.swift) 
+- [Documentation](IntroductionSwiftUI/Documentation.swift)  
+- [InitializersAndEnums](IntroductionSwiftUI/InitializersAndEnums.swift) 
